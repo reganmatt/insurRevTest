@@ -6,9 +6,15 @@
 
 ## Task
 
-Create a CLI program to count the number of words in a text file. How you do this is up to you. The only constraints are that you should write your program in Typescript and spend no more than 2-3 hours on the test. The goal is to see how you work on a solution, so if the task takes you longer than 3 hours, consider it complete and still submit it. We don't believe in getting you to work for free and therefore we don't want to use your time any further than you need to. Do try and make your code as production ready in that time-frame as you can.
+Create a CLI program to count the number of words in a text file. How you do this is up to you. 
+
+The only constraints are that you should write your program in Typescript and spend no more than 2-3 hours on the test. 
+
+The goal is to see how you work on a solution, so if the task takes you longer than 3 hours, consider it complete and submit it. We don't believe in getting you to work for free and therefore we don't want to use your time any further than you need to. Do try and make your code as production ready in that time-frame as you can.
 
 A test input is provided in this repository as `input.txt`.
+
+Once we get your test, we can review it and invite you to a technical interview where we will go over your solution.
 
 ## Caveats
 
