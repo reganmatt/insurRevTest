@@ -1,4 +1,4 @@
-# Technical Test - Work Count
+# Technical Test - Word Count
 
 ## Background
 
