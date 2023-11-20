@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "commander": "^11.1.0"
+  },
+  "name": "technical-test-word-count",
+  "description": "A command-line tool to count words in a document",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "devDependencies": {
+    "@types/commander": "^2.12.2",
+    "@types/node": "^20.9.2",
+    "typescript": "^5.2.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/insurancerevolution/technical-test-word-count.git"
+  },
+  "keywords": [
+    "word count",
+    "command-line",
+    "typescript"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/insurancerevolution/technical-test-word-count/issues"
+  },
+  "homepage": "https://github.com/insurancerevolution/technical-test-word-count#readme"
+}
